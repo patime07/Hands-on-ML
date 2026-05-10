@@ -1,4 +1,4 @@
-# NYC Yellow Taxi Fare — Linear Regression
+# NYC Yellow Taxi Fare Prediction
 
 Linear regression predicting `fare_amount` from `trip_distance` on NYC TLC Yellow Taxi trip records (January 2026, 3.7M rows).
 
